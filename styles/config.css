@@ -1,0 +1,11 @@
+:root {
+    --base-background-color: rgb(18, 25, 24);
+    --base-light-background: #fae9d5;
+    --base-text-color-dark: rgb(18, 25, 24);
+    --base-text-color-light: white;
+
+    --base-section-padding: 5em 5em;
+    --base-padding-top: 5em;
+    --base-padding-bottom: 5em;
+    --base-padding-left: 5em;
+}
