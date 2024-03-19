@@ -244,6 +244,11 @@ footer a {
     display: none;
 }
 
+.current-page {
+    color: var(--base-light-background);
+    border-bottom: 1px solid var(--base-light-background);
+}
+
 @media (min-width: 1px) and (max-width: 1280px) {
     header {
         padding: 2em;
