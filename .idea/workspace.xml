@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="355a1045-2e40-494b-8205-ffd1985a3a44" name="Changes" comment="initial with first page">
-      <change afterPath="$PROJECT_DIR$/img/services/fonari.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/services/polirovka.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/services/remont-far.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/services/tuning.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/services/zapotevanie.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/price.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/services.css" afterDir="false" />
+    <list default="true" id="355a1045-2e40-494b-8205-ffd1985a3a44" name="Changes" comment="add services and price pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/config.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/config.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +62,8 @@
       <workItem from="1710707801044" duration="13142000" />
       <workItem from="1710750893178" duration="1377000" />
       <workItem from="1710880418512" duration="5743000" />
-      <workItem from="1710886195443" duration="814000" />
+      <workItem from="1710886195443" duration="1040000" />
+      <workItem from="1710924219741" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="initial with first page">
       <option name="closed" value="true" />
@@ -83,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710752236775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add services and price pages">
+      <option name="closed" value="true" />
+      <created>1710887066652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710887066652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial with first page" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial with first page" />
+    <MESSAGE value="add services and price pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add services and price pages" />
   </component>
 </project>
